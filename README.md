@@ -10,6 +10,6 @@
 
 This website is still in makinng. But you can take a peek on my website any way.
 
-[SVP Education Circle](https://fazeelnizam.github.io/FazeelNizam-SVPEducation/)
+[SVP Education Circle](https://fazeelnizam.github.io/SVPEducation/)
 
 Paralax Scrolling Code From [Nikko Aboy](https://codepen.io/nikkz/pen/yYjXWZ).
